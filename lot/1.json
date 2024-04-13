@@ -1,0 +1,27 @@
+{
+  "name": "Magic супер нфт 10001",
+  "description": "Тут какое то описание нфт",
+  "image": "https://imgv3.fotor.com/images/homepage-feature-card/Car-PNG.jpg",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Top hat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sword"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    }
+  ]
+}
